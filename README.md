@@ -1,2 +1,2 @@
 # odin-recipes
-A recipes website
+A recipes website that will demonstrate my html skills
