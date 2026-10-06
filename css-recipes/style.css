@@ -10,3 +10,14 @@
     color: #2d3748;
     line-height: double;
 }
+ol{
+    padding: 30px;
+}
+ul {
+    padding:20px;
+}
+h4 {
+    padding:10px;
+    color:rgba(155, 25, 142, 0.395);
+}
+
